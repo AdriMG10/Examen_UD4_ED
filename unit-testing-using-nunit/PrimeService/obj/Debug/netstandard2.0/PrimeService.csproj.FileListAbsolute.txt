@@ -1,0 +1,9 @@
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Adri\Documents\AdrianMerino ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
